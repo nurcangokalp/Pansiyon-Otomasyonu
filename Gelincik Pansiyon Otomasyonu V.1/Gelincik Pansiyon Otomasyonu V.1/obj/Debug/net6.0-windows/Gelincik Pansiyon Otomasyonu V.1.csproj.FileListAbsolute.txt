@@ -1,0 +1,33 @@
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\bin\Debug\net6.0-windows\Gelincik Pansiyon Otomasyonu V.1.exe
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\bin\Debug\net6.0-windows\Gelincik Pansiyon Otomasyonu V.1.deps.json
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\bin\Debug\net6.0-windows\Gelincik Pansiyon Otomasyonu V.1.runtimeconfig.json
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\bin\Debug\net6.0-windows\Gelincik Pansiyon Otomasyonu V.1.dll
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\bin\Debug\net6.0-windows\Gelincik Pansiyon Otomasyonu V.1.pdb
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\Gelincik Pansiyon Otomasyonu V.1.csproj.AssemblyReference.cache
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\Gelincik_Pansiyon_Otomasyonu_V._1.Properties.Resources.resources
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\Gelincik Pansiyon Otomasyonu V.1.csproj.GenerateResource.cache
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\Gelincik Pansiyon Otomasyonu V.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\Gelincik Pansiyon Otomasyonu V.1.AssemblyInfoInputs.cache
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\Gelincik Pansiyon Otomasyonu V.1.AssemblyInfo.cs
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\Gelincik Pansiyon Otomasyonu V.1.csproj.CoreCompileInputs.cache
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\Gelincik Pansiyon Otomasyonu V.1.dll
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\refint\Gelincik Pansiyon Otomasyonu V.1.dll
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\Gelincik Pansiyon Otomasyonu V.1.pdb
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\Gelincik Pansiyon Otomasyonu V.1.genruntimeconfig.cache
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\ref\Gelincik Pansiyon Otomasyonu V.1.dll
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\Gelincik_Pansiyon_Otomasyonu_V._1.FrmYeniMusteri.resources
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\Gelincik_Pansiyon_Otomasyonu_V._1.FrmAdminGiris.resources
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\Gelincik_Pansiyon_Otomasyonu_V._1.FrmAna.resources
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\Gelincik_Pansiyon_Otomasyonu_V._1.Frmodalar.resources
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\Gelincik Pansiyon Otomasyonu V.1.csproj.CopyComplete
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\Gelincik_Pansiyon_Otomasyonu_V._1.FrmMusteriler.resources
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\Gelincik_Pansiyon_Otomasyonu_V._1.FrmGelirGider.resources
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\Gelincik_Pansiyon_Otomasyonu_V._1.FrmStoklar.resources
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\Gelincik_Pansiyon_Otomasyonu_V._1.FrmSifreGuncelle.resources
+C:\Users\nurcan\source\repos\Gelincik Pansiyon Otomasyonu V.1\Gelincik Pansiyon Otomasyonu V.1\obj\Debug\net6.0-windows\Gelincik_Pansiyon_Otomasyonu_V._1.FrmMesajlar.resources
